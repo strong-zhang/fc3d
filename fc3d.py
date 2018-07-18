@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # 读写xlsx
-import openpyxl
+#import openpyxl
 #import lottery3d
 import pprint
 from lottery3d import get_drop_directly
